@@ -2,7 +2,7 @@ title: My blog
 description: My very nice blog
 author: "Jorge Sanz"
 
-theme: minima
+theme: jekyll-theme-cayman
 
 base_url: /gh-pages-minima-starter
 
