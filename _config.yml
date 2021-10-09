@@ -4,19 +4,14 @@ author: "Jorge Sanz"
 
 theme: jekyll-theme-cayman
 
-base_url: /gh-pages-minima-starter
+base_url: /blog
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
-rss: rss
+github_username: jakelevinez
+linkedin_username: jacob-levine-0a5497a9
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
-
-minima:
-  date_format: "%Y-%m-%d"
 
 # Minima: custom header links
 header_pages:
@@ -32,5 +27,4 @@ exclude:
     - docker-compose.yml
     - Gemfile
     - Gemfile.lock
-    - LICENSE
     - README.md
