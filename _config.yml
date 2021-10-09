@@ -1,6 +1,6 @@
 title: Jake's Blog
 description: My journey in Devops, SRE, and other tech topics
-show_downloads: true
+show_downloads: false
 
 baseurl: "/blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://jakelevinez.github.io/" # change this to the base hostname & protocol for your site
